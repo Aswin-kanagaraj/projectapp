@@ -45,8 +45,8 @@ export const Createuser = () => {
                     />{" "}
                   </div>
                   <div className=" mt-2">
-                    <label style={{ fontWeight: "bold" }}>USER Role:</label>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <label style={{ fontWeight: "bold" }}>USER ROLE:</label>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
                     <input
                       type="text"
                       name="userrole"
