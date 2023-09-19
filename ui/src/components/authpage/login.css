@@ -1,0 +1,48 @@
+.textbx {
+  border-radius: 5px 5px 5px 5px;
+  border: 3px solid black;
+  margin-top: 5px;
+}
+.loginbutton {
+  border: 2px solid grey;
+  color: white;
+  background-color: blue;
+}
+
+.logintext {
+  text-align: center;
+}
+.iconstyle {
+  color: rgb(141, 141, 141);
+  font-size: 24px;
+  line-height: 30px;
+  border: 2px solid black;
+  background-color: burlywood;
+}
+
+/* user-create */
+
+.bodyclass1 {
+  border: 1px solid black;
+  padding: 60px 0px 60px 100px;
+  box-shadow: 1px 2px 5px 2px;
+  border-radius: 7px;
+  background-color: lightblue;
+}
+.blogimg{
+  border: 1px solid black;
+  padding: 50px 50px 50px 50px;
+  box-shadow: 1px 2px 5px 2px;
+  border-radius: 7px;
+  background-color: rgb(186, 194, 197);
+}
+.login-container {
+  position: fixed;
+  top: 0;
+  right: -100%; 
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: right 0.5s;
+}
+
